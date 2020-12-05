@@ -1,0 +1,1 @@
+alert (`seja bem vindo ao site da Academia Energiarte!!`)
